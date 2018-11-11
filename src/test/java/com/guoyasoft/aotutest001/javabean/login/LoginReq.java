@@ -1,4 +1,4 @@
-package com.guoyasoft.aotutest001.javabean;
+package com.guoyasoft.aotutest001.javabean.login;
 
 /**
  * @program: aotu-test001
